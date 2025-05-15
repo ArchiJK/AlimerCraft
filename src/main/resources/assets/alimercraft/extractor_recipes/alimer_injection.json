@@ -1,0 +1,24 @@
+{
+    "input": {
+        "item": "lucraftcore:block_adamantium"
+    },
+
+    "input_container": {
+        "item": "lucraftcore:injection"
+    },
+
+    "input_fluid": {
+        "fluid": "super_soldier_serum",
+        "amount": 5000
+    },
+
+    "energy": 50000,
+
+    "outputs": {
+        "primary": {
+            "item": "lucraftcore:injection",
+            "nbt": "{\"Injection\": \"alimercraft:alimer\"}",
+            "chance": 0.2
+        }
+    }
+}

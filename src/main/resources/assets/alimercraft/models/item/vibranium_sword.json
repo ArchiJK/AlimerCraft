@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures":
+  {
+    "layer0": "alimercraft:items/arminst/vibranium/vibranium_sword"
+  }
+}

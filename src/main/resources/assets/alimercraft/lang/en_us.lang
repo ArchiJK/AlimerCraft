@@ -1,0 +1,42 @@
+itemGroup.alimercraft=Archi Heroes
+
+superpower.alimer.name=Alimer
+
+item.alimercraft.first_item.name=Soon...
+
+item.alimercraft.vibranium_sword.name=Vibranium Sword
+item.alimercraft.vibranium_pickaxe.name=Vibranium Pickaxe
+item.alimercraft.vibranium_axe.name=Vibranium Axe
+item.alimercraft.vibranium_shovel.name=Vibranium Shovel
+item.alimercraft.vibranium_hoe.name=Soon...
+
+item.alimercraft.vibranium_helmet.name=Soon...
+item.alimercraft.vibranium_chestplate.name=Soon...
+item.alimercraft.vibranium_leggings.name=Soon...
+item.alimercraft.vibranium_boots.name=Soon...
+
+text.alimercraft.totem_cooldown.name=Totem ability is cooldown!
+text.alimercraft.time_regen_cooldown.name=Time Regen ability is cooldown!
+text.alimercraft.invulnerability_cooldown.name=Invulner ability is cooldown!
+
+alimercraft.abilities.backstabteleport.name=Teleportation behind an entity
+alimercraft.abilities.totemaction.name=Totem
+alimercraft.abilities.abilitytimeregen.name=Time Regen
+alimercraft.abilities.abilityvampirism.name=Vampirism
+alimercraft.abilities.abilityinvulnerability.name=Invulner
+alimercraft.abilities.time_warp.name=Time Warp
+alimercraft.abilities.time_loop.name=Time Loop
+
+ability.winterstone_frost_barrier.name=Frost Barrier
+ability.winterstone_forcefield.name=Forcefield
+ability.winterstone_ground_of_frost.name=Ground of Frost
+ability.winterstone_ice_block.name=Freeze Breath
+ability.winterstone_lightning_disc.name=Lightning Disc
+
+item.ah_space_stone.name=Space Stone
+item.ah_mind_stone.name=Mind Stone
+item.ah_soul_stone.name=Soul Stone
+item.ah_time_stone.name=Time Stone
+item.ah_reality_stone.name=Reality Stone
+item.ah_power_stone.name=Power Stone
+item.winter_stone.name=Winter Stone

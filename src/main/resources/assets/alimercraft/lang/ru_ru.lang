@@ -1,0 +1,42 @@
+itemGroup.alimercraft=Archi Heroes
+
+superpower.alimer.name=Алимер
+
+item.alimercraft.first_item.name=Скоро...
+
+item.alimercraft.vibranium_sword.name=Вибраниум Меч
+item.alimercraft.vibranium_pickaxe.name=Вибраниум Кирка
+item.alimercraft.vibranium_axe.name=Вибраниум Топор
+item.alimercraft.vibranium_shovel.name=Вибраниум Лопата
+item.alimercraft.vibranium_hoe.name=Скоро...
+
+item.alimercraft.vibranium_helmet.name=Скоро...
+item.alimercraft.vibranium_chestplate.name=Скоро...
+item.alimercraft.vibranium_leggings.name=Скоро...
+item.alimercraft.vibranium_boots.name=Скоро...
+
+text.alimercraft.totem_cooldown.name=Способность Тотем все еще восстанавливается!
+text.alimercraft.time_regen_cooldown.name=Способность Временная Регенерация все еще восстанавливается!
+text.alimercraft.invulnerability_cooldown.name=Способность Неуязвимость все еще восстанавливается!
+
+alimercraft.abilities.backstabteleport.name=Телепортация за спину сущности
+alimercraft.abilities.totemaction.name=Тотем
+alimercraft.abilities.abilitytimeregen.name=Временная Регенерация
+alimercraft.abilities.abilityvampirism.name=Вампиризм
+alimercraft.abilities.abilityinvulnerability.name=Неуязвимость
+alimercraft.abilities.time_warp.name=Искажение Времени
+alimercraft.abilities.time_loop.name=Петля Времени
+
+ability.winterstone_frost_barrier.name=Ледяной Барьер
+ability.winterstone_forcefield.name=Силовое Поле
+ability.winterstone_ground_of_frost.name=Пол из Леда
+ability.winterstone_ice_block.name=Ледяное Дыхание
+ability.winterstone_lightning_disc.name=Диск Молнии
+
+item.ah_space_stone.name=Камень Пространства
+item.ah_mind_stone.name=Камень Разума
+item.ah_soul_stone.name=Камень Души
+item.ah_time_stone.name=Камень Времени
+item.ah_reality_stone.name=Камень Реальности
+item.ah_power_stone.name=Камень Силы
+item.winter_stone.name=Камень Снега

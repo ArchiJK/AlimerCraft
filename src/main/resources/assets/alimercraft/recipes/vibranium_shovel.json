@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "alimercraft:vibranium_shovel"
+  },
+  "pattern": [
+    " X ",
+    " I ",
+    " I "
+  ],
+  "conditions": [
+    {
+      "item": "alimercraft:vibranium_shovel",
+      "type": "minecraft:item_exists"
+    }
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "X": {
+      "item": "lucraftcore:ingot_vibranium"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  }
+}

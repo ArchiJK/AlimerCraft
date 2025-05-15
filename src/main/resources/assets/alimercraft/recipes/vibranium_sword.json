@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "alimercraft:vibranium_sword"
+  },
+  "pattern": [
+    " X ",
+    " X ",
+    " I "
+  ],
+  "conditions": [
+    {
+      "item": "alimercraft:vibranium_sword",
+      "type": "minecraft:item_exists"
+    }
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "X": {
+      "item": "lucraftcore:ingot_vibranium"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  }
+}

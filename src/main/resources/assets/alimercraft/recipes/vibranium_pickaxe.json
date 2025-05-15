@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "alimercraft:vibranium_pickaxe"
+  },
+  "pattern": [
+    "XXX",
+    " I ",
+    " I "
+  ],
+  "conditions": [
+    {
+      "item": "alimercraft:vibranium_pickaxe",
+      "type": "minecraft:item_exists"
+    }
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "X": {
+      "item": "lucraftcore:ingot_vibranium"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  }
+}

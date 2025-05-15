@@ -1,0 +1,7 @@
+{
+  "parent": "lucraftcore:block/glow_layer",
+  "textures": {
+    "base": "alimercraft:block/blocks/muragen_block",
+    "glow": "alimercraft:block/blocks/muragen_block_1"
+  }
+}
